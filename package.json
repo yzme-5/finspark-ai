@@ -1,0 +1,11 @@
+{
+  "name": "finsprk-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FinSpark AI 金融创新机会罗盘",
+  "scripts": {
+    "test": "node --test tests/model.test.js",
+    "check": "node --check assets/model.js && node --check assets/opportunities.js && node --check assets/app.js"
+  },
+  "license": "MIT"
+}
