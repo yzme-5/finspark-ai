@@ -5,6 +5,8 @@
 **在线作品：** https://yzme-5.github.io/finspark-ai/  
 **项目仓库：** https://github.com/yzme-5/finspark-ai
 
+![FinSpark AI 作品首页](screenshots/live-site.png)
+
 ## 为什么做这个作品
 
 AI 时代真正的创新能力，不是让 AI 批量生成更多点子，而是把自己独特的专业能力、真实金融问题与可验证的资源条件连接起来。FinSpark AI 把这一过程产品化，帮助使用者从“我该做什么”走向“我下周能验证什么”。
